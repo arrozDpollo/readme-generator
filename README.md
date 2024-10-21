@@ -28,6 +28,12 @@
   ## Tests
   by running it in terminal
 
+  ##Demo Video
+  https://github.com/arrozDpollo/readme-generator/blob/main/ModuleChallenge-9.mp4
+
+  ## Application url
+  https://arrozdpollo.github.io/readme-generator
+  
   ## Questions
   For any questions, please reach out via [GitHub](https://github.com/Marlon.G) or email: marlongonzalez@gmail.com.
 
